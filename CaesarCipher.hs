@@ -1,3 +1,5 @@
+-- a Caesar cipher from ch.5 of Hutton's Programming in Haskell (2016)
+
 import Data.Char
 
 --ceasar cypher
