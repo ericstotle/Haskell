@@ -1,4 +1,4 @@
--- based on the Learn You a Haskell program with an additional "bump" function added.
+-- based on the Learn You a Haskell (ch.9) program with an additional "bump" function added.
 
 import System.Environment
 import System.Directory
