@@ -1,3 +1,5 @@
+-- A tautology checker for propositional logic based on Hutton (2016). 
+
 module Tautology where
 
 data Prop = Const Bool
