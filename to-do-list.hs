@@ -1,4 +1,5 @@
 -- based on the Learn You a Haskell (ch.9) program with an additional "bump" function added.
+-- compile with runghc and enter commands and input thusly: ./to-do-list add dolist.txt "get out of bed"
 
 import System.Environment
 import System.Directory
