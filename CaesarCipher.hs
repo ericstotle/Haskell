@@ -1,4 +1,4 @@
--- a Caesar cipher from ch.5 of Hutton's Programming in Haskell (2016)
+-- a Caesar cipher put together with code from ch.5 of Hutton's Programming in Haskell (2016)
 
 import Data.Char
 
