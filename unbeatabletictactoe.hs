@@ -1,3 +1,4 @@
+-- an unbeatable tic tac toe opponent using the minimax algorithm put together from ch.11 of Hutton (2016)
 import Data.Char
 import Data.List
 import System.IO
