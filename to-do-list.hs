@@ -1,3 +1,5 @@
+-- based on the Learn You a Haskell program with an additional "bump" function added.
+
 import System.Environment
 import System.Directory
 import System.IO
