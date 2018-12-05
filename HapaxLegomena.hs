@@ -1,3 +1,6 @@
+-- Fairly primitive. Takes a text file and uses set membership relations to make a list of the hapax legomena, the words that
+-- only occur once. 
+
 import Data.Char
 import Data.List
 import System.Environment
